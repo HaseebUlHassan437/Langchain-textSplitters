@@ -1,0 +1,58 @@
+
+# LangChain Core
+langchain
+langchain-core
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+streamlit
+langchain-community
+langchain-experimental
+
+
+# //////////////////////////////////////////////////////////////////////////////////////
+# # Core LangChain
+# langchain>=0.0.303
+
+# # OpenAI integration
+# langchain-openai
+# openai
+
+# # Google Gemini (PaLM) integration
+# langchain-google-genai
+# google-genai
+
+# # Environment variables
+# python-dotenv
+
+# # Machine learning & NLP
+# numpy
+# scikit-learn
+# torch>=2.0
+# matplotlib
+
+# # Streamlit (if you use it later)
+# streamlit
+
+
